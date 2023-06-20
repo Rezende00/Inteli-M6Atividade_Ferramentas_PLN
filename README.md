@@ -78,6 +78,8 @@ https://cloud.google.com/products/storage?hl=pt-br
 
 
 # 3. Escolher um dos serviços listados :
+- Serviço do GCP selecionado: IA para desenvolvedores
+  - Natural Language AI: https://cloud.google.com/natural-language?hl=pt-br
 
 # 4. Explicação com exemplos
 O serviço de API de Linguagem Natural do Google é uma poderosa ferramenta oferecida pelo Google Cloud que permite a análise e compreensão avançada de texto e linguagem natural.<br>
