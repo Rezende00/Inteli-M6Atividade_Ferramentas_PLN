@@ -21,7 +21,7 @@ Inteli_M6 - Curso de Sistemas de Informação, Semana 9 - ATIVIDADE: Estudo das 
 - OBS: São apresentadas diferentes produtos para um mesmo viés de serviço, além disso, é possível visualizar caminhos hipotéticos.
 
 ## 2.1 IA e Machine Learning
-https://cloud.google.com/products/ai?hl=pt-br
+https://cloud.google.com/products/ai?hl=pt-br <br>
 <img src= "https://github.com/Rezende00/Inteli-M6Atividade_Ferramentas_PLN/blob/main/img/2.1.1.png">
 <img src= "https://github.com/Rezende00/Inteli-M6Atividade_Ferramentas_PLN/blob/main/img/2.1.2.png">
 <img src= "https://github.com/Rezende00/Inteli-M6Atividade_Ferramentas_PLN/blob/main/img/2.1.3.png">
@@ -31,23 +31,23 @@ https://cloud.google.com/products/ai?hl=pt-br
 <img src= "https://github.com/Rezende00/Inteli-M6Atividade_Ferramentas_PLN/blob/main/img/2.2.png">
 
 ## 2.3 Computação
-https://cloud.google.com/products/compute?hl=pt-br
+https://cloud.google.com/products/compute?hl=pt-br <br>
 <img src= "https://github.com/Rezende00/Inteli-M6Atividade_Ferramentas_PLN/blob/main/img/2.3.png">
 
 ## 2.4 Contêineres
 <img src= "https://github.com/Rezende00/Inteli-M6Atividade_Ferramentas_PLN/blob/main/img/2.4.png">
 
 ## 2.5 Análise de Dados
-https://cloud.google.com/solutions/smart-analytics?hl=pt-br
+https://cloud.google.com/solutions/smart-analytics?hl=pt-br <br>
 <img src= "https://github.com/Rezende00/Inteli-M6Atividade_Ferramentas_PLN/blob/main/img/2.5.1.png">
 <img src= "https://github.com/Rezende00/Inteli-M6Atividade_Ferramentas_PLN/blob/main/img/2.5.2.png">
 
 ## 2.6 Banco de dados
-https://cloud.google.com/products/databases?hl=pt-br
+https://cloud.google.com/products/databases?hl=pt-br <br>
 <img src= "https://github.com/Rezende00/Inteli-M6Atividade_Ferramentas_PLN/blob/main/img/2.6.png">
 
 ## 2.7 Ferramentas para desenvolvedores
-https://cloud.google.com/products/tools?hl=pt-br
+https://cloud.google.com/products/tools?hl=pt-br <br>
 <img src= "https://github.com/Rezende00/Inteli-M6Atividade_Ferramentas_PLN/blob/main/img/2.7.1.png">
 <img src= "https://github.com/Rezende00/Inteli-M6Atividade_Ferramentas_PLN/blob/main/img/2.7.2.png">
 
@@ -55,18 +55,18 @@ https://cloud.google.com/products/tools?hl=pt-br
 <img src= "https://github.com/Rezende00/Inteli-M6Atividade_Ferramentas_PLN/blob/main/img/2.8.png">
 
 ## 2.9 Saúde e ciências biológicas
-https://cloud.google.com/solutions/healthcare-life-sciences?hl=pt-br
+https://cloud.google.com/solutions/healthcare-life-sciences?hl=pt-br <br>
 <img src= "https://github.com/Rezende00/Inteli-M6Atividade_Ferramentas_PLN/blob/main/img/2.9.png">
 
 ## 2.10 Nuvem híbrida e várias nuvens
-https://cloud.google.com/solutions/hybrid-and-multicloud-application-platform?hl=pt-br
+https://cloud.google.com/solutions/hybrid-and-multicloud-application-platform?hl=pt-br <br>
 <img src= "https://github.com/Rezende00/Inteli-M6Atividade_Ferramentas_PLN/blob/main/img/2.10.png">
 
 ## 2.11 Internet das Coisas (IoT)
 <img src= "https://github.com/Rezende00/Inteli-M6Atividade_Ferramentas_PLN/blob/main/img/2.11.png">
 
 ## 2.12 Ferramentas de gestão
-https://cloud.google.com/products/management?hl=pt-br
+https://cloud.google.com/products/management?hl=pt-br <br>
 <img src= "https://github.com/Rezende00/Inteli-M6Atividade_Ferramentas_PLN/blob/main/img/2.12.1.png">
 <img src= "https://github.com/Rezende00/Inteli-M6Atividade_Ferramentas_PLN/blob/main/img/2.12.2.png">
 
@@ -74,20 +74,20 @@ https://cloud.google.com/products/management?hl=pt-br
 <img src= "https://github.com/Rezende00/Inteli-M6Atividade_Ferramentas_PLN/blob/main/img/2.13.png">
 
 ## 2.14 Migração
-https://cloud.google.com/migration-center/docs?hl=pt-br
+https://cloud.google.com/migration-center/docs?hl=pt-br <br>
 <img src= "https://github.com/Rezende00/Inteli-M6Atividade_Ferramentas_PLN/blob/main/img/2.14.png">
 
 ## 2.15 Rede
-https://cloud.google.com/products/networking?hl=pt-br
+https://cloud.google.com/products/networking?hl=pt-br <br>
 <img src= "https://github.com/Rezende00/Inteli-M6Atividade_Ferramentas_PLN/blob/main/img/2.15.1.png">
 <img src= "https://github.com/Rezende00/Inteli-M6Atividade_Ferramentas_PLN/blob/main/img/2.15.2.png">
 
 ## 2.16 Operações
-https://cloud.google.com/products/operations?hl=pt-br
+https://cloud.google.com/products/operations?hl=pt-br <br>
 <img src= "https://github.com/Rezende00/Inteli-M6Atividade_Ferramentas_PLN/blob/main/img/2.16.png">
 
 ## 2.17 Segurança e identidade
-https://cloud.google.com/products/security-and-identity?hl=pt-br
+https://cloud.google.com/products/security-and-identity?hl=pt-br <br>
 <img src= "https://github.com/Rezende00/Inteli-M6Atividade_Ferramentas_PLN/blob/main/img/2.17.1.png">
 <img src= "https://github.com/Rezende00/Inteli-M6Atividade_Ferramentas_PLN/blob/main/img/2.17.2.png">
 <img src= "https://github.com/Rezende00/Inteli-M6Atividade_Ferramentas_PLN/blob/main/img/2.17.3.png">
@@ -98,11 +98,11 @@ https://cloud.google.com/products/security-and-identity?hl=pt-br
 <img src= "https://github.com/Rezende00/Inteli-M6Atividade_Ferramentas_PLN/blob/main/img/2.17.8.png">
 
 ## 2.18 Computação sem servidor
-https://cloud.google.com/serverless?hl=pt-br
+https://cloud.google.com/serverless?hl=pt-br <br>
 <img src= "https://github.com/Rezende00/Inteli-M6Atividade_Ferramentas_PLN/blob/main/img/2.18.png">
 
 ## 2.19 Armazenamento
-https://cloud.google.com/products/storage?hl=pt-br
+https://cloud.google.com/products/storage?hl=pt-br <br>
 <img src= "https://github.com/Rezende00/Inteli-M6Atividade_Ferramentas_PLN/blob/main/img/2.19.png">
 
 ## 2.20 Outros produtos do Google (Fazem utilização da Nuvem e são serviços disponibilizados)
